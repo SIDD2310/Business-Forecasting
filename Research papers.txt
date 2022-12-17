@@ -1,0 +1,11 @@
+Research Papers referred:-
+
+[1] Huber, Jakob, and Heiner Stuckenschmidt. "Daily retail demand forecasting using machine learning with emphasis on calendric special days." International Journal of Forecasting 36.4 (2020): 1420-1438.
+
+[2] Zhu, Xiaodan, et al. "Demand forecasting with supply‐chain information and machine learning: Evi-dence in the pharmaceutical industry." Production and Operations Management 30.9 (2021): 3231-3252.
+
+[3] Kilimci, Zeynep Hilal, et al. "An improved demand forecasting model using deep learning approach and proposed decision integration strategy for supply chain." Complexity 2019 (2019).
+
+[4] Böse, Joos-Hendrik, et al. "Probabilistic demand forecasting at scale." Proceedings of the VLDB En-dowment 10.12 (2017): 1694-1705.
+
+
